@@ -4,7 +4,7 @@
 
 <hr/>
 
-<p align="center">My Tech Stack</p>
+<h1 align="center">My Tech Stack</h1>
 
 <table align="center">
   <tbody>
@@ -68,6 +68,6 @@
   </tbody>
 </table>
 <hr>
-<h4 align="center">Top langs </h4>
+<h1 align="center">Top langs</h1>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Software&langs_count=10&theme=cobalt&layout=compact" alt="AnhellO :: Top Langs" /></p>
