@@ -4,7 +4,7 @@
 
 <hr/>
 
-My Tech Stack
+<p align="center">My Tech Stack</p>
 
 <table align="center">
   <tbody>
