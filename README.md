@@ -4,8 +4,7 @@
 
 <hr/>
 
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+My Tech Stack
 
 <table align="center">
   <tbody>
@@ -72,4 +71,3 @@
 <h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Software&langs_count=10&theme=cobalt&layout=compact" alt="AnhellO :: Top Langs" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prof-Software&repo=website)](https://github.com/Prof-Software/website)
