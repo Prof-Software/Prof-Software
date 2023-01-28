@@ -7,7 +7,7 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
