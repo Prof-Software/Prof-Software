@@ -72,3 +72,4 @@
 <h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Software&langs_count=10&theme=cobalt&layout=compact" alt="AnhellO :: Top Langs" /></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prof-Software&repo=website)](https://github.com/Prof-Software/website)
